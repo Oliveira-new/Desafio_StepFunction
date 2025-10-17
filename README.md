@@ -35,7 +35,7 @@ Foi criado, utilizando o serviço **AWS Step Functions**, o **fluxo de validaç�
 2. Caso ocorra algum erro na validação, o **Amazon SNS** é acionado para enviar uma notificação com os detalhes do erro.
 
 O código utilizado na definição do diagrama está disponível em:  
-[`codigo/codigo_json.txt`](codigo/codigo_json.txt)
+[`codigo/codigo_jason.txt`](codigo/codigo_jason.txt)
 
 ---
 
